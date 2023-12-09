@@ -1,0 +1,9 @@
+dataset,nodes,features,classes,directed,emb_ratio,k,init_lr,lr_decay,epochs
+chameleon,2277,2325,5,TRUE,3,50,0.01,0.999,200
+CiteSeer,3327,3703,6,FALSE,4,50,0.01,0.99,200
+Cora,2708,1433,7,FALSE,4,20,0.01,0.999,300
+cornell,183,1703,5,TRUE,4,50,0.001,0.99,500
+squirrel,5201,2089,5,TRUE,3,50,0.01,0.999,200
+texas,183,1703,5,TRUE,4,10,0.01,0.99,200
+wisconsin,251,1703,5,TRUE,4,20,0.001,0.99,500
+PubMed,19717,500,3,FALSE,4,20,0.001,0.99,300
